@@ -1,2 +1,2 @@
-# 10 Day Javascript Challenge
- Implementation of certain javascript practices over the course of 10 days 
+Simple Java files implemented to test Git commands 
+ Implementation of beginner javascript codes
